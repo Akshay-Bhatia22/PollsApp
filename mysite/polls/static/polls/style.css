@@ -1,0 +1,7 @@
+li a {
+    color: green;
+}
+body {
+    background-image: url("images/bg.jpg");
+    background-size: cover;
+}
